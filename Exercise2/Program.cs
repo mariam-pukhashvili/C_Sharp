@@ -101,9 +101,13 @@ for (int i = 0; i < threeArray.GetLength(0); i++)
 
             oneArray[index++] = threeArray[i, j, y];
 
-
         }
     }
 
 }
-//Console.WriteLine(Array.Sort(oneArray));
+Array.Sort(oneArray);
+
+for (int i = 0; i < oneArray.Length; i++)
+{
+    Console.WriteLine($"sortedarray {oneArray[i]}");
+}
