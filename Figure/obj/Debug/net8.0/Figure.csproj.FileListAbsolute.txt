@@ -1,0 +1,15 @@
+/Users/mariamipukhashvili/c#/Figure/obj/Debug/net8.0/Figure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamipukhashvili/c#/Figure/obj/Debug/net8.0/Figure.AssemblyInfoInputs.cache
+/Users/mariamipukhashvili/c#/Figure/obj/Debug/net8.0/Figure.AssemblyInfo.cs
+/Users/mariamipukhashvili/c#/Figure/obj/Debug/net8.0/Figure.csproj.CoreCompileInputs.cache
+/Users/mariamipukhashvili/c#/Figure/obj/Debug/net8.0/Figure.sourcelink.json
+/Users/mariamipukhashvili/c#/Figure/bin/Debug/net8.0/Figure
+/Users/mariamipukhashvili/c#/Figure/bin/Debug/net8.0/Figure.deps.json
+/Users/mariamipukhashvili/c#/Figure/bin/Debug/net8.0/Figure.runtimeconfig.json
+/Users/mariamipukhashvili/c#/Figure/bin/Debug/net8.0/Figure.dll
+/Users/mariamipukhashvili/c#/Figure/bin/Debug/net8.0/Figure.pdb
+/Users/mariamipukhashvili/c#/Figure/obj/Debug/net8.0/Figure.dll
+/Users/mariamipukhashvili/c#/Figure/obj/Debug/net8.0/refint/Figure.dll
+/Users/mariamipukhashvili/c#/Figure/obj/Debug/net8.0/Figure.pdb
+/Users/mariamipukhashvili/c#/Figure/obj/Debug/net8.0/Figure.genruntimeconfig.cache
+/Users/mariamipukhashvili/c#/Figure/obj/Debug/net8.0/ref/Figure.dll
