@@ -8,11 +8,19 @@ public class Figure
     //     set { length = value; }
     // }
 
-    public virtual bool Isosceles()
+
+    public virtual bool IsIsosceles()
     {
         return false;
     }
-
+    public virtual bool IsEquilateral()
+    {
+        return false;
+    }
+    public virtual bool IsRight()
+    {
+        return false;
+    }
 }
 
 
