@@ -18,14 +18,15 @@ Angle angle3 = new Angle(segment1, segment2, 40);
 
 //Console.WriteLine(angle1.AngleSize);
 
-////is or not triangle Isosceles
-
 Triangle triangle = new Triangle(segment1, segment2, segment3, angle1, angle2, angle3);
 
 
+//სამკუთხედის შემოწმება
+Console.WriteLine(triangle.IsTriangle());
+//ტოლფერდა სამკუთხედის შემოწმება
 Console.WriteLine(triangle.IsIsosceles());
-
+//ტოლგვერდა სამკუთხედის შემოწმება
 Console.WriteLine(triangle.IsEquilateral());
-
+//მართკუთხა სამკუთხედის შემოწმება
 Console.WriteLine(triangle.IsRight());
 

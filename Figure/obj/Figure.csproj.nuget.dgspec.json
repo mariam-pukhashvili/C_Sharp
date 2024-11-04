@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mariamipukhashvili/c#/Figure/Figure.csproj": {}
+    "D:\\C_Sharp\\Figure\\Figure.csproj": {}
   },
   "projects": {
-    "/Users/mariamipukhashvili/c#/Figure/Figure.csproj": {
+    "D:\\C_Sharp\\Figure\\Figure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariamipukhashvili/c#/Figure/Figure.csproj",
+        "projectUniqueName": "D:\\C_Sharp\\Figure\\Figure.csproj",
         "projectName": "Figure",
-        "projectPath": "/Users/mariamipukhashvili/c#/Figure/Figure.csproj",
-        "packagesPath": "/Users/mariamipukhashvili/.nuget/packages/",
-        "outputPath": "/Users/mariamipukhashvili/c#/Figure/obj/",
+        "projectPath": "D:\\C_Sharp\\Figure\\Figure.csproj",
+        "packagesPath": "C:\\Users\\m.pukhashvili\\.nuget\\packages\\",
+        "outputPath": "D:\\C_Sharp\\Figure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mariamipukhashvili/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\m.pukhashvili\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,7 +8,10 @@ public class Figure
     //     set { length = value; }
     // }
 
-
+    public virtual bool IsTriangle()
+    {
+        return false;
+    }
     public virtual bool IsIsosceles()
     {
         return false;

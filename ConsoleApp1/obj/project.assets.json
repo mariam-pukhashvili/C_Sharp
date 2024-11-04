@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/mariamipukhashvili/.nuget/packages/": {}
+    "C:\\Users\\m.pukhashvili\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mariamipukhashvili/c#/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\C_Sharp\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/mariamipukhashvili/c#/ConsoleApp1/ConsoleApp1.csproj",
-      "packagesPath": "/Users/mariamipukhashvili/.nuget/packages/",
-      "outputPath": "/Users/mariamipukhashvili/c#/ConsoleApp1/obj/",
+      "projectPath": "D:\\C_Sharp\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\m.pukhashvili\\.nuget\\packages\\",
+      "outputPath": "D:\\C_Sharp\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mariamipukhashvili/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\m.pukhashvili\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
