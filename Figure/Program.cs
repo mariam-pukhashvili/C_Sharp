@@ -30,3 +30,6 @@ Console.WriteLine(triangle.IsEquilateral());
 //მართკუთხა სამკუთხედის შემოწმება
 Console.WriteLine(triangle.IsRight());
 
+
+// lashiko otxkutxedebi da xutkutxedi ver movaswari da dzaan ar mechxuboo :*
+
