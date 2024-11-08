@@ -1,13 +1,11 @@
 
 interface Car
 {
-    //     string model { get; set; };
-    //     string color { get; set; };
-    //     double engine { get; set; };
-    //     int year { get; set; }
-
+    string model { get; set; }
+    string color { get; set; }
+    double battery{ get;set; }
     void Start();
     void Stop();
     void Drive();
-
+    void Charge();
 }
