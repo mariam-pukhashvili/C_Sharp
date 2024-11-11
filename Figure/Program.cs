@@ -31,5 +31,40 @@ Console.WriteLine(triangle.IsEquilateral());
 Console.WriteLine(triangle.IsRight());
 
 
-// lashiko otxkutxedebi da xutkutxedi ver movaswari da dzaan ar mechxuboo :*
+
+
+
+int[] numbers = new int[Random.Shared.Next(10, 16)];
+
+
+
+for (int i = 0; i < numbers.Length; i++)
+{
+    numbers[i] = Random.Shared.Next(100);
+    Console.Write($"{numbers[i]} ");
+
+}
+
+
+// დაწერეთ თავად რევერსის ლოგიკა.
+//Array.Reverse(numbers);
+int[] array_numbers = new int[numbers.Length];
+
+for (int i = 0; i < numbers.Length; i++)
+{
+    if (i == 0)
+    {
+
+        array_numbers[0] = numbers[numbers.Length - 1];
+
+    }
+
+    else
+    {
+
+        array_numbers[i] = numbers[numbers.Length - i];
+
+    }
+    Console.WriteLine($"{array_numbers[i]} {i}");
+}
 
