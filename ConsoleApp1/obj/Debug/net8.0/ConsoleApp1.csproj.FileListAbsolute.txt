@@ -1,0 +1,5 @@
+/Users/mariamipukhashvili/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamipukhashvili/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/mariamipukhashvili/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/mariamipukhashvili/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/mariamipukhashvili/c#/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json

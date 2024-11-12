@@ -14,7 +14,7 @@ Car myHCar = new Lexus();
 myHCar.color = "black";
 myHCar.model = "lexus";
 myHCar.Start();
-Console.WriteLine($"My beautiful {myHCar.color} {myHCar.model}");
+Console.WriteLine($"My ლამაზი {myHCar.color} {myHCar.model}");
 myHCar.Drive();
 myHCar.battery=59;
 
