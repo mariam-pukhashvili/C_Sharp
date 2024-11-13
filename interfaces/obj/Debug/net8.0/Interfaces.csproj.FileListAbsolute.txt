@@ -1,0 +1,15 @@
+/Users/mariamipukhashvili/c#/interfaces/bin/Debug/net8.0/Interfaces
+/Users/mariamipukhashvili/c#/interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/Users/mariamipukhashvili/c#/interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/Users/mariamipukhashvili/c#/interfaces/bin/Debug/net8.0/Interfaces.dll
+/Users/mariamipukhashvili/c#/interfaces/bin/Debug/net8.0/Interfaces.pdb
+/Users/mariamipukhashvili/c#/interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariamipukhashvili/c#/interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/Users/mariamipukhashvili/c#/interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/Users/mariamipukhashvili/c#/interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/mariamipukhashvili/c#/interfaces/obj/Debug/net8.0/Interfaces.sourcelink.json
+/Users/mariamipukhashvili/c#/interfaces/obj/Debug/net8.0/Interfaces.dll
+/Users/mariamipukhashvili/c#/interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/Users/mariamipukhashvili/c#/interfaces/obj/Debug/net8.0/Interfaces.pdb
+/Users/mariamipukhashvili/c#/interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/Users/mariamipukhashvili/c#/interfaces/obj/Debug/net8.0/ref/Interfaces.dll
