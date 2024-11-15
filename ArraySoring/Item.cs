@@ -3,7 +3,8 @@ namespace ArraySorting;
 public class Item
 {
 
-    public Item(int id, string firstName, string lastName, decimal salary){
+    public Item(int id, string firstName, string lastName, decimal salary)
+    {
         Id = id;
         FirstName = firstName;
         LastName = lastName;
